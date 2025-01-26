@@ -21,7 +21,14 @@ The user grants the service provider permission to use the rights under copyrigh
 
 You agree that the content you post on the Application, excluding personal information, will also be provided to OPNE FOOD FACTS.
 
-Users cannot request the deletion of posted content unless it violates these Terms, Community Guidelines, or laws and regulations.
+Users cannot request the deletion of posted content including data sent to OPEN FOOD FACTS, unless it violates these Terms, Community Guidelines, or laws and regulations.
+
+
+## License
+
+Data provided by OPEN FOOD FACTS or registered with OPEN FOOD FACTS through the Application is under the ODbL license.
+
+For data independently collected by the Application, based on the conditions described in "Post", the user agrees that the service provider may use it free of charge for the operation, improvement, and analysis of the service.
 
 
 ## About Privacy
