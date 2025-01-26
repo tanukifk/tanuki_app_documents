@@ -20,10 +20,10 @@ Only aggregated and anonymized data is periodically transmitted to external serv
 
 Please note that the application uses third-party services that have their own privacy policies regarding data handling. Below are links to the privacy policies of third-party service providers used by the application.
 
-- Google Play services
-- AdMob
-- Google Analytics for Firebase
-- Firebase Crashlytics
+- [Google Play services](https://policies.google.com/privacy)
+- [AdMob](https://support.google.com/admob/answer/6128543)
+- [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+- [Firebase Crashlytics](https://firebase.google.com/support/privacy)
 
 
 ## Disclosure of personal data
