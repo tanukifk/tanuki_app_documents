@@ -87,7 +87,7 @@ Or, the Osaka Summary Court shall be the court of exclusive jurisdiction of the 
 
 Service Providers may update their Terms of Use periodically, so please check this page periodically for any changes. Service Provider will notify you of any changes by posting the new Terms of Use on this page.
 
-These Terms of Use are effective from December 1, 2024
+These Terms of Use are effective from March 1, 2025
 
 
 ## Inquiry
