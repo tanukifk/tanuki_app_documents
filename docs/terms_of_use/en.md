@@ -33,7 +33,7 @@ For data independently collected by the Application, based on the conditions des
 
 ## About Privacy
 
-The handling of registered users' personal information (meaning "personal information" as defined in Article 2, Paragraph 1 of the Act on the Protection of Personal Information) by service providers shall be under the separately established privacy policy of the service provider. , Registered Users consent to the handling of their personal information by Service Providers in accordance with this Privacy Policy.
+The handling of registered users' personal information by service providers shall be under the separately established privacy policy of the service provider. , Registered Users consent to the handling of their personal information by Service Providers in accordance with this Privacy Policy.
 
 The service provider may create statistical information in a form that does not identify individuals regarding the information, content, etc. provided by registered users to the service provider, and may use and disclose such statistical information at the service provider's discretion. , and such statistical information may be provided to third parties in a form that makes it impossible to identify that it is information about registered users, and registered users shall not raise any objections to this.
 
@@ -47,15 +47,17 @@ Unauthorized reproduction or modification of the Application, any portion of the
 
 The following acts are prohibited when using the application.
 
-Acts that violate laws or encourage the violation of laws or rights.
-Violating these Terms and Community Guidelines
-Unauthorized use of member information or allowing a third party to use it
-Interfering with the development or operation of the application;
-Any other actions that the service provider deems appropriate.
+- Acts that violate laws or encourage the violation of laws or rights.
+- Violating these Terms and Community Guidelines
+- Unauthorized use of member information or allowing a third party to use it
+- Interfering with the development or operation of the application;
+- Any other actions that the service provider deems appropriate.
 
 In response to violations, the Service Provider may suspend the use of the Application or take other measures that the Service Provider deems appropriate (hereinafter referred to as "Usage Suspension Measures").
 
 Users cannot request disclosure of the reason for suspension of use. Furthermore, the service provider does not guarantee any damage to the user resulting from suspension of use.
+
+In addition, if a user intentionally interferes with the provision of services, the service provider may take legal action, such as claiming damages caused by the interference.
 
 
 ## Disclaimer
