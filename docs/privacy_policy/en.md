@@ -1,4 +1,4 @@
-This Privacy Policy applies to the Tanuki app for digital devices (hereinafter referred to as the "Application") created by Tanuki Inc. (hereinafter referred to as the "Service Provider") as an ad-supported service.
+This Privacy Policy applies to the Tanuki app for digital devices (hereinafter referred to as the "Application") created by the Tanuki developer (hereinafter referred to as the "Service Provider").
 
 ## Collection and use of information
 
@@ -65,7 +65,7 @@ The service provider takes reasonable steps to protect data privacy whenever we 
 This Privacy Policy may be updated from time to time for any reason. Service Provider will notify Customer of any changes to its Privacy Policy by updating this page with the new Privacy Policy. We encourage you to periodically review this Privacy Policy for any changes, as your continued use constitutes your acceptance of any changes.
 
 
-This privacy policy is effective from December 1, 2024
+This privacy policy is effective from March 1, 2025
 
 
 ## Agree
