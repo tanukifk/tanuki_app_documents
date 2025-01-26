@@ -1,4 +1,4 @@
-This Privacy Policy applies to the Tanuki app for digital devices (hereinafter referred to as the "Application") created by the Tanuki developer (hereinafter referred to as the "Service Provider") as an ad-supported service.
+This Privacy Policy applies to the Tanuki app for digital devices (hereinafter referred to as the "Application") created by the Tanuki developer (hereinafter referred to as the "Service Provider").
 
 ## Collection and use of information
 
