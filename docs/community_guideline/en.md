@@ -6,6 +6,10 @@ These guidelines clarify what is and is not appropriate for the platform we aim 
 
 Users who do not comply with these guidelines will be subject to temporary or permanent restrictions or bans in accordance with the Terms of Use.
 
+## Images of products to be uploaded
+
+- Please upload only images of products that you have taken yourself or images under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+- Do not upload images that are copyrighted by other organizations or individuals. For example, do not copy images from e-commerce sites and upload them.
 
 ## Postings that are an Invasion of Privacy
 
