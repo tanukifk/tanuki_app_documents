@@ -1,4 +1,4 @@
-These Terms of Use applies to Tanuki apps (hereinafter referred to as “Applications”) for digital devices created by the Tanuki developer(hereinafter referred to as “Service Providers”).
+These Terms of Use applies to Tanuki apps (hereinafter referred to as “Applications”) for digital devices created by the Tanuki developers (hereinafter referred to as “Service Providers”).
 
 ## Agreement
 
